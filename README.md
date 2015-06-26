@@ -2,6 +2,8 @@
 
 #### druid 加入cat filter
 
+这样在cat 中可以监控druid 的sql 执行
+
 在druid 数据库连接配置中，加入 DruidCatFilter，如：
 
 ```xml
